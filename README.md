@@ -1,24 +1,5 @@
 # aula-componentes-vuejs
 
-## Project setup
-```
-npm install
-```
+## Meu primeiro projeto com github e Vuejs Atualizado
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Neste projeto vou trabalhar com componentes no VUEjs
